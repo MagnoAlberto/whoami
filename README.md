@@ -1,4 +1,4 @@
 ```javascript
-import {bio} from Magnoalberto;
+import {bio} from 'MagnoAlberto';
 console.log(bio);
 ```
