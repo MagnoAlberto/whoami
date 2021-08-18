@@ -1,4 +1,4 @@
 ```javascript
-const bio = new MagnoAlberto();
-console.log({bio});
+import {bio} from Magnoalberto;
+console.log(bio);
 ```
