@@ -1,4 +1,4 @@
 ```javascript
-import {bio} from 'MagnoAlberto';
-console.log(bio);
+import {bio} from 'Api/MagnoAlberto';
+console.log(bio());
 ```
